@@ -1,0 +1,166 @@
+{
+    "data":{
+        "Development":[
+            {
+                "id":"WD101",
+                "title":"Web Development Fundamentals",
+                "description":"Embark on a journey into the vibrant realm of Web Development Fundamentals with this comprehensive course. Participants will delve into essential concepts and tools for crafting dynamic websites, gaining practical skills in HTML, CSS, and JavaScript.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/web.jpg",
+                    "alt":"Web Development Fundamentals"
+                }
+            },
+            {
+                "id":"DS201",
+                "title":"Data Science Essentials",
+                "description":"Embark on a journey into the heart of Data Science with this comprehensive course on essentials. Participants will delve into key concepts and techniques, gaining a solid understanding of data analysis, statistical modeling, and machine learning fundamentals.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/data-science.jpg",
+                    "alt":"Data Science Essentials"
+                }
+            },
+            {
+                "id":"ST301",
+                "title":"Software Testing Fundamentals",
+                "description":"Dive into the core principles of Software Testing with this comprehensive course. Participants will explore the fundamental aspects of test planning, test case design, and proficiency in various testing stages.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/testing.png",
+                    "alt":"Software Testing Fundamentals"
+                }
+            },
+            {
+                "id":"MD401",
+                "title":"Mobile App Development",
+                "description":"Embark on a journey into Mobile App Development with React Native through this comprehensive course. Participants will delve into the world of cross-platform app development, exploring the power and flexibility of React Native.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/app.jpg",
+                    "alt":"Mobile App Development"
+                }
+            },
+            {
+                "id":"DO501",
+                "title":"DevOps for Agile Teams",
+                "description":"Immerse yourself in the realm of DevOps for Agile Teams with this comprehensive course. Participants will explore the synergies between DevOps and Agile methodologies, gaining a deep understanding of how these approaches can seamlessly integrate.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/devops.jpg",
+                    "alt":"DevOps for Agile Teams"
+                }
+            }
+            
+        ],
+        "Business":[
+            {
+                "id":"MK101",
+                "title":"Introduction to Marketing",
+                "description":"Embark on the exciting journey into the world of marketing with the 'Introduction to Marketing' course. This comprehensive program is designed to provide participants with a foundational understanding of marketing principles and strategies.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/marketing.png",
+                    "alt":"Introduction to Marketing"
+                }
+            },
+            {
+                "id":"LD201",
+                "title":"Leadership Development",
+                "description":"This leadership development course is designed to cultivate essential skills for effective leadership. Participants will explore core leadership principles, communication strategies, decision-making techniques, and team-building methods.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/leadership.jpg",
+                    "alt":"Leadership Development"
+                }
+            },
+            {
+                "id":"FN301",
+                "title":"Finance for Non Financial Managers",
+                "description":"This course in Finance for Non-Financial Managers is tailored for individuals seeking a comprehensive understanding of financial principles without an extensive background in finance. Participants will learn fundamental concepts such as budgeting, financial statement analysis, and cost management.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/finance.jpg",
+                    "alt":"Finance for Non Financial Managers"
+                }
+            },
+            {
+                "id":"OM401",
+                "title":"Operations Management Fundamantals",
+                "description":"This course in Operations Management Fundamentals provides a solid foundation for individuals looking to grasp essential concepts in the field of operations. Participants will explore key principles, methodologies, and techniques related to the efficient and effective management of business processes.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/operations.jpg",
+                    "alt":"Operations Management Fundamantals"
+                }
+            },
+            {
+                "id":"PM501",
+                "title":"Project Management Fundamantals",
+                "description":"This course on Project Management Fundamentals is designed to equip participants with essential skills and knowledge for successful project delivery. Covering core concepts such as project initiation, planning, execution, monitoring, and closure, the course provides a comprehensive understanding of project management methodologies.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/project.png",
+                    "alt":"Project Management Fundamantals"
+                }
+            }
+        ],
+        "Design":[
+            {
+                "id":"GD101",
+                "title":"Graphic Designing Fundamentals",
+                "description":"This course covers the basic principles of graphic designing which helps a student to become a graphic designer and get a role as UI/UX Designer.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/graphic.png",
+                    "alt":"Graphic Designing Fundamentals"
+                }
+            },
+            {
+                "id":"UX201",
+                "title":"User Experiance Design",
+                "description":"Explore the world of User Experience (UX) Design with this comprehensive course. Participants will dive into the principles and techniques behind crafting compelling digital experiences. ",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/uxdesign.jpg",
+                    "alt":"User Experiance Design"
+                }
+            },
+            {
+                "id":"ID301",
+                "title":"Industrial Design Fundamantals",
+                "description":"Embark on a journey into the fundamentals of Industrial Design with this comprehensive course. Participants will explore core principles and practices essential for creating innovative and functional product designs.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/industrial.jpg",
+                    "alt":"Industrial Design Fundamantals"
+                }
+            },
+            {
+                "id":"FD401",
+                "title":"Fashion Design Principles",
+                "description":"Immerse yourself in the world of Fashion Design Principles with this enriching course. Participants will delve into the core concepts and techniques that underpin successful fashion design.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/fashion.jpg",
+                    "alt":"Fashion Design Principles"
+                }
+            }
+        ],
+        "Lifestyle":[
+            {
+                "id":"LC101",
+                "title":"Cooking Basics",
+                "description":"Discover the art of Cooking Basics with this foundational course. Participants will explore essential culinary techniques, ingredient selection, and kitchen safety, laying the groundwork for culinary proficiency.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/cooking.jpg",
+                    "alt":"Cooking Basics"
+                }
+            },
+            {
+                "id":"LF201",
+                "title":"Fitness For Life",
+                "description":"Embark on a journey to optimal health with the 'Fitness for Life' course. This comprehensive program is designed to instill lifelong fitness habits and well-being. Participants will delve into core fitness principles, including exercise routines, nutrition guidance, and lifestyle choices. ",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/fitness.png",
+                    "alt":"Fitness For Life"
+                }
+            },
+            {
+                "id":"LT301",
+                "title":"Travel Photography",
+                "description":"Capture the essence of your adventures with the 'Travel Photography' course. This immersive program is tailored for individuals passionate about telling stories through captivating visuals.",
+                "image":{
+                    "url":"https://raw.githubusercontent.com/SomeAssets/Images/main/travel.jpg",
+                    "alt":"Travel Photography"
+                }
+            }
+        ]
+    }
+  }
